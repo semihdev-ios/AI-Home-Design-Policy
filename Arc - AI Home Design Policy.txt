@@ -74,6 +74,11 @@
                 Title: Arc - AI Home Design Subscription
                 Length: Weekly
                 Price: $4.99
+
+                Title: Arc - AI Home Design Subscription
+                Length: Annual
+                Price: $29.99
+
                 Functional links to the privacy policy and Terms of Use (EULA): Privacy Policy | Terms of Use
                       
                 Cancellation
