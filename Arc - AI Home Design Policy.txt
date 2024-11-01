@@ -2,7 +2,7 @@
                 Terms & Conditions
                 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to The Developer.
                 The Developer is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
-                Arc - AI Home Design stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that Arc - AI Home Design won’t work properly or at all.
+                CASA - AI Home Design stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that CASA - AI Home Design won’t work properly or at all.
                 The app does use third-party services that declare their Terms and Conditions.
                 Link to Terms and Conditions of third-party service providers used by the app
                 RevenueCat
@@ -22,10 +22,10 @@
                 If you have any questions or suggestions about my Terms and Conditions and Privacy Policy, do not hesitate to contact me at ekmensemihdev@gmail.com.
                 Privacy Policy
                 
-                The Developer built Arc - AI Home Design as a Freemium app. This SERVICE is provided by The Developer at no cost and is intended for use as is.
+                The Developer built CASA - AI Home Design as a Freemium app. This SERVICE is provided by The Developer at no cost and is intended for use as is.
                 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
                 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-                The terms used in this Privacy Policy have the The Developer meanings as in our Terms and Conditions, which are accessible at Arc - AI Home Design unless otherwise defined in this Privacy Policy.
+                The terms used in this Privacy Policy have the The Developer meanings as in our Terms and Conditions, which are accessible at CASA - AI Home Design unless otherwise defined in this Privacy Policy.
 
                 Information Collection and Use
                 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
@@ -68,19 +68,19 @@
                 This policy is effective as of 2024-07-17
 
                 Subscription and Auto-Renewal Policy
-                Thank you for using Arc - AI Home Design. This Subscription and Auto-Renewal Policy outlines the terms and conditions governing your subscription to All Access to app.
+                Thank you for using CASA - AI Home Design. This Subscription and Auto-Renewal Policy outlines the terms and conditions governing your subscription to All Access to app.
                 Subscription Information:
 
-                Title: Arc - AI Home Design Subscription
+                Title: CASA - AI Home Design Subscription
                 Length: Weekly
                 Price: $4.99
 
-                Title: Arc - AI Home Design Subscription
+                Title: CASA - AI Home Design Subscription
                 Length: Annual
                 Price: $29.99
 
                 Functional links to the privacy policy and Terms of Use (EULA): Privacy Policy | Terms of Use
-                https://github.com/ekmensemihdev/Arc-AI-Home-Design-Policy/blob/main/Arc%20-%20AI%20Home%20Design%20Policy.txt
+                https://github.com/ekmensemihdev/CASA-AI-Home-Design-Policy/blob/main/CASA%20-%20AI%20Home%20Design%20Policy.txt
                       
                 Cancellation
                 If you wish to cancel your subscription, you must do so before the end of the current subscription period. Once cancelled, your subscription will remain active until the end of the current billing cycle.
